@@ -1,0 +1,7 @@
+C:\Users\Adam>"C:\Users\Adam\AppData\Local\yuzu\yuzu-windows-msvc\yuzu-cmd.exe" -f -g C:\Users\Adam\Documents\Roms\Switch\SuperMarioOdyssey.xci"
+[   0.004161] Common.Filesystem <Debug> common\fs\fs.cpp:CreateDir:180: Filesystem object at path=C:\Users\Adam\AppData\Roaming\yuzu\log exists and is a directory
+[   0.004343] Common.Filesystem <Debug> common\fs\fs.cpp:RemoveFile:83: Successfully removed the file at path=C:\Users\Adam\AppData\Roaming\yuzu\log\yuzu_log.txt.old.txt
+[   0.004685] Common.Filesystem <Debug> common\fs\fs.cpp:RenameFile:126: Successfully renamed the file from old_path=C:\Users\Adam\AppData\Roaming\yuzu\log\yuzu_log.txt to new_path=C:\Users\Adam\AppData\Roaming\yuzu\log\yuzu_log.txt.old.txt
+[   0.005006] Frontend <Info> yuzu_cmd\yuzu.cpp:main:129: Starting in fullscreen mode...
+[   0.006605] Common.Filesystem <Debug> common\fs\fs.cpp:CreateDirs:208: Filesystem object at path=C:\Users\Adam\AppData\Roaming\yuzu\shader\nvidia exists and is a directory
+[   0.006652] Frontend <Critical> yuzu_cmd\yuzu.cpp:main:162: Failed to load ROM: No ROM specified
